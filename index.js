@@ -6,6 +6,6 @@ const port = 3000;
 
 const app = express();
 
-route.route(app);
+app.get('/', (req, res) => res.send('Git homepage'));
 
 app.listen(port, _ => console.log(`Git server runing on port ${port}`));
