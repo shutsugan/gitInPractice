@@ -1,0 +1,22 @@
+{
+  "name": "gitinpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shutsugan/gitInPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shutsugan/gitInPractice/issues"
+  },
+  "homepage": "https://github.com/shutsugan/gitInPractice#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
