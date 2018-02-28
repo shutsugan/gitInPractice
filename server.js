@@ -1,11 +1,7 @@
 'use strict';
 
 const express = require('express');
-<<<<<<< HEAD
-=======
 const path = require('path');
-const port = 3000;
->>>>>>> second-chapter
 
 const app = express();
 app.use(express.static(path.join(__dirname, 'public')));
